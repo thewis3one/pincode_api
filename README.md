@@ -1,5 +1,5 @@
 # Basic Service creating pin-code, salt and hash of them
-===
+
 To run this service:
 1. Install Python 3;
 2. Install fastapi;
